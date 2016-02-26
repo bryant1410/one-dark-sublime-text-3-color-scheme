@@ -107,11 +107,11 @@
 			<key>name</key>
 			<string>Variables</string>
 			<key>scope</key>
-			<string>variable</string>
+			<string>variable, meta.property.object, string.unquoted.label</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E06C75</string>
+				<string>#ABB2BF</string>
 			</dict>
 		</dict>
 		<dict>
