@@ -744,6 +744,105 @@
 				<string>#C678DD</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>subl_new js vars</string>
+			<key>scope</key>
+			<string>source.js                          variable.other.readwrite.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>ABB2BF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>new_subl js $</string>
+			<key>scope</key>
+			<string>source.js                         meta.function-call.with-arguments.js                        variable.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ABB2BF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>new_subl js call method</string>
+			<key>scope</key>
+			<string>source.js                            meta.group.braces.round                           meta.group.braces.curly                             meta.function-call.method.without-arguments.js                    variable.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ABB2BF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>new_subl e js</string>
+			<key>scope</key>
+			<string>source.js                            meta.group.braces.round                            meta.group.braces.curly                            variable.other.object.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ABB2BF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>new_subl js key</string>
+			<key>scope</key>
+			<string>source.js                             meta.group.braces.round                           meta.group.braces.curly                            constant.other.object.key.js                            string.unquoted.label.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ABB2BF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>new_subl obejct key</string>
+			<key>scope</key>
+			<string>source.js                       meta.group.braces.round                            meta.group.braces.curly                           constant.other.object.key.js                         punctuation.separator.key-value.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ABB2BF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>new_subl js method with args</string>
+			<key>scope</key>
+			<string>source.js                            meta.group.braces.round                           meta.group.braces.curly                           meta.function-call.method.with-arguments.js                 variable.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ABB2BF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>new_subl js variable function</string>
+			<key>scope</key>
+			<string>source.js                            meta.function-call.method.with-arguments.js                        variable.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ABB2BF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>new_subl variabel function method</string>
+			<key>scope</key>
+			<string>source.js                       meta.function-call.method.without-arguments.js                       variable.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ABB2BF</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>32bd64fa-d60a-4858-a5fc-5164cc49a2b8</string>
