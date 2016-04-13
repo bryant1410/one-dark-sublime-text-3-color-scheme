@@ -1,5 +1,7 @@
 # One Dark Sublime Text 3 Color Scheme
 
+:warning: This repo is not being actively maintained.Updates are long and far apart. The theme is not 100% accurate.
+
 A port of the One Dark color scheme from Github's Atom.io editor. If you notice inconsistencies, please report an issue and I'll get to fixing it as soon as possible.
 
 ##How to install
