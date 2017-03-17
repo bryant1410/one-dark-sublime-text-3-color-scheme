@@ -614,7 +614,7 @@
 			<key>name</key>
 			<string>python meta function</string>
 			<key>scope</key>
-			<string>source.python meta.function-call.python support.type.python</string>
+			<string>source.python support.type.python</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -658,7 +658,7 @@
 			<key>name</key>
 			<string>python function call parameter name</string>
 			<key>scope</key>
-			<string>source.python meta.function-call.python meta.function-call.arguments.python variable.parameter.function.python</string>
+			<string>source.python meta.function-call.arguments.python variable.parameter.function-call.python</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
