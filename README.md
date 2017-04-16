@@ -4,30 +4,30 @@
 
 A port of the One Dark color scheme from Github's Atom.io editor. If you notice inconsistencies, please report an issue and I'll get to fixing it as soon as possible.
 
-##How to install
+## How to install
 1. Package Control: **Install Package** ```One Dark Color Scheme```
 2. Preferences > Color Scheme > One Dark Color Scheme > One Dark
 
-##How to upgrade
+## How to upgrade
 1. Package Control: **Upgrade Package** ```One Dark Color Scheme```
 
-##Examples
-####HTML
+## Examples
+#### HTML
 ![Screenshot](http://i.imgur.com/luf2s86.png  "HTML Screenshot")
 ---
-####CSS
+#### CSS
 ![Screenshot](http://i.imgur.com/dl92tPh.png  "CSS Screenshot")
 ---
-####JavaScript
+#### JavaScript
 ![Screenshot](http://i.imgur.com/kRCEblz.png  "Javscript Screenshot")
 ---
-####PHP
+#### PHP
 ![Screenshot](http://i.imgur.com/JUHrx5H.png  "PHP Screenshot")
 ---
-####Python
+#### Python
 ![Screenshot](http://i.imgur.com/tJsH6fx.png  "Python Screenshot")
 ---
-####Ruby
+#### Ruby
 ![Screenshot](http://i.imgur.com/5y2ziyT.png  "Ruby Screenshot")
 
 Made with :heart:
